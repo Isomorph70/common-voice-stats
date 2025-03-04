@@ -48,6 +48,7 @@ For YES/NO, how would you say "yes" or "no" if you were answering a simple quest
 |[Greek](https://en.wikipedia.org/wiki/Greek_language)|μηδέν|ένα|δύο|τρία|τέσσερα|πέντε|έξι|επτά|οκτώ|εννέα|ναί|όχι|NO|
 |[Hakha Chin](https://en.wikipedia.org/wiki/Hakha_Chin_language)|||||||||||||NO|
 |[Hungarian](https://en.wikipedia.org/wiki/Hungarian_language)|nulla|egy|kettő|három|négy|öt|hat|hét|nyolc|kilenc|igen|nem|NO|
+|[Ido](https://en.wikipedia.org/wiki/Ido_language)|zero|un|du|tri|quar|kin|sis|sep|ok|non|yes|no|NO|
 |[Indonesian](https://en.wikipedia.org/wiki/Indonesian_language)|nol|satu|dua|tiga|empat|lima|enam|tujuh|delapan|sembilan|ya|tidak|YES|
 |[Interlingua](https://en.wikipedia.org/wiki/Interlingua)|||||||||||||NO|
 |[Irish](https://en.wikipedia.org/wiki/Irish_language)|a náid|a haon|a dó|a trí|a ceathair|a cúig|a sé|a seacht|a hocht|a naoi|||NO|
